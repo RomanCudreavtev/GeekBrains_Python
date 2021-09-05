@@ -42,14 +42,14 @@ print('Hello Romeo!')
 #
 # num_2 = int(input())
 # #
-# # if  num_1 != num_2:
-# #     print('не равны')
-# #     if num_1 > num_2:
-# #         print('Первое больше')
-# #     else:
-# #         print('Второе Больше')
-# # else:
-# #     print('Равны')
+# if  num_1 != num_2:
+#     print('не равны')
+#     if num_1 > num_2:
+#         print('Первое больше')
+#     else:
+#         print('Второе Больше')
+# else:
+#     print('Равны')
 
 num = int(input('Enter value from 0 - 9 : '))
 
