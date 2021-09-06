@@ -1,10 +1,10 @@
 print('Hello Romeo!')
 #print(5 + 4 /1*5)
 
-x = 50
-y = 9
-x=x/y
-print (x)
+# x = 50
+# y = 9
+# x=x/y
+# print (x)
 
 # name = 'Romeo'
 # sum_papers = 10
