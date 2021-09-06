@@ -51,13 +51,17 @@ print('Hello Romeo!')
 # else:
 #     print('Равны')
 
-num = int(input('Enter value from 0 - 9 : '))
+# num = int(input('Enter value from 0 - 9 : '))
+#
+# while num <= 10:
+#     num = num + 1
+#     if num == 5:
+#         continue
+#         if num == 8:
+#             break
+#         print(num)
+#     print('end', num, 'programm')
+#
+print('Hello Romeo!')
 
-while num <= 10:
-    num = num + 1
-    if num == 5:
-        continue
-        if num == 8:
-            break
-        print(num)
-    print('end', num, 'programm')
+
