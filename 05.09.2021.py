@@ -52,12 +52,12 @@ print (x)
 #     print('Равны')
 
 num = int(input('Enter value from 0 - 9 : '))
-
-while num <= 10:
-    num = num + 1
-    if num == 5:
-        continue
-        if num == 8:
-            break
-        print(num)
-    print('end', num, 'programm')
+#
+# while num <= 10:
+#     num = num + 1
+#     if num == 5:
+#         continue
+#         if num == 8:
+#             break
+#         print(num)
+#     print('end', num, 'programm')
